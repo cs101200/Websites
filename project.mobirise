@@ -1142,6 +1142,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "msg-box5-3k",
           "_params": {
             "imageSize": 50,
@@ -1184,12 +1189,7 @@
           },
           "title": "CONTESTS",
           "text": "On my contests page is the winner of my last contest is also on my page!! Enjoy!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE INFO.</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"cotests.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO.</a>"
         },
         {
           "_tags": [
@@ -4272,6 +4272,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-3q",
           "_params": {
             "imageSize": 50,
@@ -4322,15 +4330,7 @@
           },
           "title": "The last winner is <a href=\"http://scratch.mit.edu/users/Partygirl05/\" target=\"_blank\" class=\"text-warning\">Partygirl05</a>&nbsp;",
           "text": "The winner!!!.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -4455,6 +4455,14 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-3p",
           "_params": {
             "imageSize": 50,
@@ -4501,15 +4509,7 @@
           },
           "title": "What the contest is about?",
           "text": "Come back soon! Nothing yet!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
