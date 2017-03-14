@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "cotests.html",
     "name": "cs101200",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 135,
+    "uniqCompNum": 137,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -1173,7 +1173,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/logomakr-90btjc-1400x706.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -4331,6 +4335,44 @@
           "title": "The last winner is <a href=\"http://scratch.mit.edu/users/Partygirl05/\" target=\"_blank\" class=\"text-warning\">Partygirl05</a>&nbsp;",
           "text": "The winner!!!.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logomakr-90btjc-2000x1009-800x403.png",
+                "image": "@PROJECT_PATH@/assets/images/logomakr-90btjc-2000x1009.png",
+                "caption": "Your prize partygirl05!!!!",
+                "active": true
+              }
+            ],
+            "spacing": "5",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#553982",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3s",
+          "articleLayout": false,
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
