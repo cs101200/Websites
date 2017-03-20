@@ -1,12 +1,12 @@
 {
   "settings": {
-    "currentPage": "cotests.html",
+    "currentPage": "Home.html",
     "name": "cs101200",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c71486",
+        "primaryColor": "#ff00b6",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -22,10 +22,11 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 138,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "shop.html": {
@@ -80,7 +81,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -114,7 +115,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -647,7 +648,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -681,7 +682,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -963,7 +964,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -997,7 +998,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -1017,7 +1018,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">cs101200</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Seasons.html\">Season celebration</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cotests.html\">Contests</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about me.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\">About me</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Updates.html\">Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">My shop&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\" aria-expanded=\"false\">My shop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2Dand3D ponies.html\" aria-expanded=\"false\">My 3D and 2D ponies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logos.html\">Logos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Signs,backgroundsandthumbnails.html\">Signs, backgrounds and thumbnails</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logos.html\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://scratch.mit.edu/users/cs101200/\" target=\"_blank\">My scratch profile</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Seasons.html\">Season Celebration</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cotests.html\">Contests</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about me.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\">About me</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Updates.html\">Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">My shop&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\" aria-expanded=\"false\">My shop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2Dand3D ponies.html\" aria-expanded=\"false\">My 3D and 2D ponies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logos.html\">Logos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Signs,backgroundsandthumbnails.html\">Signs, backgrounds and thumbnails</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logos.html\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://scratch.mit.edu/users/cs101200/\" target=\"_blank\">My scratch profile</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1192,7 +1193,7 @@
             }
           },
           "title": "CONTESTS",
-          "text": "On my contests page is the winner of my last contest is also on my page!! Enjoy!",
+          "text": "On my contests page is the winner of my last contest is also on my contests page!! Go and see!!!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"cotests.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO.</a>"
         },
         {
@@ -1293,7 +1294,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1327,7 +1328,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -1821,7 +1822,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1855,7 +1856,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -2458,7 +2459,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2492,7 +2493,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -2937,7 +2938,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2971,7 +2972,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -3472,7 +3473,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -3506,7 +3507,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -3804,106 +3805,9 @@
             "showText": false,
             "showButton": false
           },
-          "title": "With spring comes st. Patrick's Day and Easter",
+          "title": "Here comes Easter!!!",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-2y",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#41a85f"
-          },
-          "text": "<h1>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Facts:</h1><h1>St. Patrick's Day is an annual feast day celebrating the patron saint the day is named after. St. Patrick's Day is the national holiday of Ireland and is usually celebrated on March 17. St. Patrick's Day has become a popular holiday in the United States. People wear green and eat corned beef and cabbage.</h1>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-33",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#41a85f",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/st-1400x784.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Happy St. Patrick's Day !!!!!!"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-3d",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#25de5b",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=fqsaBOHPzNc",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "St. Patrick's Day",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -4057,7 +3961,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "What are you doing for St. Patrick's Day and Easter?&nbsp;",
+          "title": "What are you doing Easter?&nbsp;",
           "subtitle": "Enjoy the time you have!",
           "form": {
             "action": "kendrajberrier@gmail.com",
@@ -4186,7 +4090,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c71486!important"
+              "color": "#ff00b6!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -4220,7 +4124,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -4342,6 +4246,11 @@
             "Theme"
           ],
           "_name": "gallery2",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
@@ -4360,19 +4269,14 @@
             "spacing": "5",
             "showText": true,
             "filter": false,
-            "bgColor": "#553982",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery2-3s",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#ffffff"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_tags": [
