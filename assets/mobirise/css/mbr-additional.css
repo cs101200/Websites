@@ -1457,3 +1457,100 @@ h6,
   font-family: 'Indie Flower', cursive;
   font-size: 17px;
 }
+
+
+
+#menu-3u .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3u .navbar-caption {
+  color: #ffffff;
+}
+#menu-3u .navbar-toggler {
+  color: #ff0b6f;
+}
+#menu-3u .link,
+#menu-3u .dropdown-item {
+  color: #ff0b6f;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-3u .link {
+  font-size: 0.85rem;
+}
+#menu-3u .dropdown-item,
+#menu-3u .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-3u .link:hover,
+#menu-3u .dropdown-item:hover,
+#menu-3u .link:focus,
+#menu-3u .dropdown-item:focus {
+  color: #ff00b6;
+}
+#menu-3u .link[aria-expanded="true"],
+#menu-3u .dropdown-menu {
+  background: #000000;
+}
+#menu-3u .nav-dropdown-sm .link:focus,
+#menu-3u .nav-dropdown-sm .link:hover,
+#menu-3u .nav-dropdown-sm .dropdown-item:focus,
+#menu-3u .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-3u .navbar,
+#menu-3u .nav-dropdown-sm,
+#menu-3u .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3u .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-3u .bg-color.transparent .link {
+  color: #ff0b6f;
+  transition: none;
+}
+#menu-3u .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3u .bg-color.transparent.opened .link:hover,
+#menu-3u .bg-color.transparent.opened .link:focus {
+  color: #ff00b6;
+}
+#menu-3u .link[aria-expanded="true"],
+#menu-3u .dropdown-item[aria-expanded="true"] {
+  color: #ff00b6!important;
+}
+#menu-3u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-3u .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3u .close-icon::before,
+#menu-3u .close-icon::after {
+  background-color: #ff0b6f;
+}
+#menu-3u .btn {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 19px;
+}
+#header5-3x .mbr-section-title {
+  color: #fac51c;
+}
+#header5-3x .mbr-section-lead {
+  color: #fac51c;
+}
+#features2-3w .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #000000;
+}
+#features2-3w .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #000000;
+}
+#features2-3w .mbr-cards-col:nth-child(even) .card-text {
+  color: #ffffff;
+}
+#features2-3z .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #000000;
+}
+#contacts1-3v P {
+  font-family: 'Indie Flower', cursive;
+  font-size: 17px;
+}
