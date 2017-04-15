@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "cotests.html",
     "name": "Otter craft shop",
     "theme": {
       "name": "mobirise3",
@@ -9,7 +9,7 @@
         "primaryColor": "#ff00b6",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#49baf3",
         "warningColor": "#e6c4d8",
         "dangerColor": "#b8312f",
         "titleFont": "PT Sans",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 152,
+    "uniqCompNum": 172,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/otter-128x116.png",
     "noImageResize": "",
@@ -927,6 +927,64 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-3k",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CONTESTS",
+          "text": "I AM HAVING A NEW CONTEST GO AND SEE!!!!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"cotests.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO.</a>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -1147,64 +1205,6 @@
           "title": "Let's celebrate the seasons",
           "text": "IT IS TIME TO CELEBRATE SPRING!!!!!!!!!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Seasons.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO.</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "msg-box5-3k",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logomakr-90btjc-1400x706.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "CONTESTS",
-          "text": "On my contests page is the winner of my last contest is also on my contests page!! Go and see!!!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"cotests.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO.</a>"
         },
         {
           "_tags": [
@@ -4211,12 +4211,20 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#2b0680"
+            }
+          },
           "_anchor": "header1-3n",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1225.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/795354-abstract-color-splash-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4242,10 +4250,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#2b0680"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#2b0680"
             }
           },
           "_anchor": "msg-box5-3q",
@@ -4255,7 +4263,7 @@
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1126.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4273,11 +4281,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/partygry-1400x793.png",
+              "src": "@PROJECT_PATH@/assets/images/logomakr-90btjc-1400x706.png",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -4292,168 +4301,12 @@
               "family": "MobiriseIcons",
               "link": "",
               "size": 0,
-              "active": true,
               "color": "#ffffff"
             }
           },
           "title": "The last winner is <a href=\"http://scratch.mit.edu/users/Partygirl05/\" target=\"_blank\" class=\"text-warning\">Partygirl05</a>&nbsp;",
           "text": "The winner!!!.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logomakr-90btjc-2000x1009-800x403.png",
-                "image": "@PROJECT_PATH@/assets/images/logomakr-90btjc-2000x1009.png",
-                "caption": "Your prize partygirl05!!!!",
-                "active": true
-              }
-            ],
-            "spacing": "5",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#ffffff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-3s",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-3o",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/90-600x450.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Coming soon!",
-          "subtitle1": "None",
-          "caption1": "Nonthing yet! Come back soon!",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/90-600x450.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Coming soon!",
-          "subtitle2": "None",
-          "caption2": "Nonthing yet! Come back soon!",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/90-600x450.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Coming soon!",
-          "subtitle3": "None",
-          "caption3": "Nonthing yet! Come back soon!",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/90-600x450.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Coming soon!",
-          "subtitle4": "None",
-          "caption4": "Nonthing yet! Come back soon!",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -4463,7 +4316,7 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
               "color": "#ffffff"
@@ -4476,7 +4329,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1291.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3b842c97322d5bb93177777777777777777abeeacad11b3f-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4494,7 +4347,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/90-1400x1050.png",
+              "src": "@PROJECT_PATH@/assets/images/team-1400x1050.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4514,8 +4367,359 @@
             }
           },
           "title": "What the contest is about?",
-          "text": "Come back soon! Nothing yet!",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".btn": {
+              "font-size": "25px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4b",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "The rules and introduction!",
+          "text": "Below!",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"cotests.html#content1-49\" data-toolbar=\"-mbrBtnMove\">Intro and rules</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content1-49",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote><ul><li>This new contest I have is a logo contest!!! Well all you need to do is give me the link to your project on my profile or in the from I have below.</li></ul></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "color": "#ff0069",
+              "font-size": "25px"
+            },
+            "DIV": {
+              "color": "#ff0069"
+            },
+            "H1": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "84px"
+            },
+            "PRE": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "84px"
+            },
+            "BLOCKQUOTE": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content6-4c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text1": "<h4>Make your own UNIQUE (I DO NOT CARE WHAT IT IS ON JUST MAKE YOUR OWN EVEN IF IT HAS PICTURES FROM THE INTERNET!!!!!) Logo for me!&nbsp;</h4><h4>No inappropriate stuff please or i will ask you to try again.</h4><h4>The winner will be posted on this page and i will use the logo to!!</h4>",
+          "text2": "<h1>THANK YOU ALL!!!</h1>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ff0069"
+            }
+          },
+          "_anchor": "content2-4d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<p><font color=\"#ff0069\" face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Here is a few things i like ( if you want to base it off what i like but you do not have to ) :</i></span></font></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#05e0ff"
+            }
+          },
+          "_anchor": "content1-4e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<ul><li>&nbsp;Wolfs ( ESPECIPLY MEAN LOOKING ONES )<div></div></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#05e0ff"
+            },
+            "UL": {
+              "color": "#ff6c00"
+            }
+          },
+          "_anchor": "content1-4f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<ul><li>&nbsp;Elements ( i am not talking about the element of harmony )</li></ul><div></div><p></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#05ff88"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-4g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c1c1c1"
+          },
+          "text": "<ul><li>Shadows ( or the dark )&nbsp;</li></ul><div></div><p></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#e5b0f8"
+            }
+          },
+          "_anchor": "content1-4j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<ul><li>My little pony</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#ffe900"
+            }
+          },
+          "_anchor": "content1-4l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<ul><li>The rainbow</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<ul><li>Best Friends</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#00ffa2"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<ul><li>Love</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#ff0400"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<ul><li>Kittens</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote>I think that i have given you many ideas so enjoy the rest!!!!!</blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ff0090",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-4r",
+          "_params": {
+            "labelsColor": "#ff47a7",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Project Form",
+          "subtitle": "Please put your in project link here!",
+          "form": {
+            "action": "kendrajberrier@gmail.com",
+            "alerts": {
+              "success": "Thanks for being in the contest!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Username"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Link to project"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contest submit click here</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ff47a7"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ff0400"
+            }
+          }
         },
         {
           "_tags": [
@@ -4544,7 +4748,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cs1012001st-gif-.gif",
+              "src": "@PROJECT_PATH@/assets/images/kendraj-128x128.png",
               "width": 128,
               "active": true,
               "link": "",
