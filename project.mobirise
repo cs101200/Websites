@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cotests.html",
+    "currentPage": "Home.html",
     "name": "Otter craft shop",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 172,
+    "uniqCompNum": 174,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/otter-128x116.png",
     "noImageResize": "",
@@ -4588,52 +4588,70 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#00ffa2"
+            }
+          },
           "_anchor": "content1-4m",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<ul><li>Best Friends</li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#00ffa2"
-            }
-          }
+          "text": "<ul><li>Best Friends</li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#ff0400"
+            }
+          },
           "_anchor": "content1-4n",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<ul><li>Love</li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#ff0400"
-            }
-          }
+          "text": "<ul><li>Love</li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "content1-4o",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<ul><li>Kittens</li></ul>",
+          "text": "<ul><li>Kittens</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<ul><li>Anime ( LOVE VOLTRON)</li></ul>",
           "_styles": {
             "UL": {
-              "color": "#efefef"
+              "color": "#f28281"
             }
           }
         },
@@ -4642,13 +4660,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-4p",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<blockquote>I think that i have given you many ideas so enjoy the rest!!!!!</blockquote>",
           "_styles": {
             "BLOCKQUOTE": {
               "color": "#ff0090",
@@ -4656,13 +4667,31 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "46px"
             }
-          }
+          },
+          "_anchor": "content1-4p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote>I think that i have given you many ideas so enjoy the rest!!!!!</blockquote>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ff47a7"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ff0400"
+            }
+          },
           "_anchor": "form1-4r",
           "_params": {
             "labelsColor": "#ff47a7",
@@ -4708,18 +4737,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contest submit click here</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ff47a7"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#ff0400"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contest submit click here</a>"
         },
         {
           "_tags": [
