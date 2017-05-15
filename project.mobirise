@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "cotests.html",
     "name": "Otter craft shop",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 174,
+    "uniqCompNum": 176,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/otter-128x116.png",
     "noImageResize": "",
@@ -4252,6 +4252,24 @@
           "title": "The rules and introduction!",
           "text": "Below!",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"cotests.html#content1-49\" data-toolbar=\"-mbrBtnMove\">Intro and rules</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "New contes May 25!",
+          "_styles": {
+            "DIV": {
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_tags": [
