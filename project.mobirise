@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 180,
+    "uniqCompNum": 181,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/otter-128x116.png",
     "noImageResize": "",
@@ -210,13 +210,6 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-4y",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<blockquote><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Do to summer camps and my moms rules i will not be active for the summer. I have closed Otter craft shop for the summer. My mom said i spent to much time on scratch.so she made me stop but i will come back later. i can't say for sure though my mom is not letting me on there much.&nbsp;</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>So i am sorry to say but Otter craft shop will be closed for summer!</i></span></font></p></blockquote>",
           "_styles": {
             "SPAN": {
               "text-align": "center",
@@ -225,7 +218,14 @@
               "font-size": "25px",
               "color": "#ff0575"
             }
-          }
+          },
+          "_anchor": "content2-4y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Do to summer camps and my moms rules i will not be active for the summer. I have closed Otter craft shop for the summer. My mom said i spent to much time on scratch.so she made me stop but i will come back later. i can't say for sure though my mom is not letting me on there much.&nbsp;</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>So i am sorry to say but Otter craft shop will be closed for summer!</i></span></font></p></blockquote>"
         },
         {
           "_styles": {
@@ -492,10 +492,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -614,44 +614,58 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
+          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-4z",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-50",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
-          "title": "My update before I leave",
-          "meta": "By cs101200 posted June 7, 2017"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "25px"
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/imageso-1400x1050.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
             }
           },
-          "_anchor": "content2-1u",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>I will not be active this summer! Any RP studios I have deleted, any RP I am in I will get back to it when I come back to scratch later probably after June or July. My mom said i was on it to much so i had to stop but i may not return till I am older out of my moms reach of control! (lol) But here on June 7th i write you this mussage if you forget me just froget me. I will see you all later bye! (if you where part of the contest there is no winners sorry)</i></span></font></blockquote>"
+          "title": "&nbsp;Hi sorry about last post",
+          "text": "<p>. But I am here!</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -687,7 +701,7 @@
             "showSubTitle": true
           },
           "title": "FORM",
-          "subtitle": "Please fill out this form if you have questions or give me some advice or a comments! Thanks everyone! <br>I may not get to you untill after summer!",
+          "subtitle": "Please fill out this form if you have questions or give me some advice or a comments! Thanks everyone! <br><br>",
           "form": {
             "action": "kendrajberrier@gmail.com",
             "alerts": {
